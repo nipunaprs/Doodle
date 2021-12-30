@@ -1,0 +1,99 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+div {
+  display: inline-block;
+  margin-left: 10px;
+}
+
+div label {
+  display: block;
+  font-size: larger;
+}
+
+.loginbtn {
+  display: block;
+  padding-block: 5px;
+  background-color: blue;
+  color: white;
+  margin-top:10px;
+}
+
+input {
+  font-size: large;
+
+}
+
+.guestbtn {
+  display: block;
+  padding-block: 5px;
+  background-color: blue;
+  color: white;
+  margin-top:10px;
+}
+
+.slotbox {
+  transform: scale(3);
+  margin: 30px;
+}
+
+.timeinput {
+  display:inline-block;
+  width: 45px;
+  margin: 10px;
+}
+
+#nameinput {
+  display: inline-block;
+  margin-left:10px;
+  background-color: lightblue;
+  margin-bottom: 10px;
+  
+}
+
+#namei {
+  display: inline-block;
+  margin-left:10px;
+  background-color: lightblue;
+  margin-bottom: 10px;
+  
+}
+
+table {
+  display: inline-block;
+  background-color: lightblue;
+  border: black;
+  border-radius: 10px;
+  
+}
+
+#savebtn {
+  display: block;
+  padding-block: 5px;
+  background-color: blue;
+  color: white;
+  margin-left:10px;
+  font-size: 20px;
+}
+
+.userlabel {
+  text-align: center;
+  margin-left:10px;
+}
+
+td {
+  padding-right: 40px;
+
+}
+

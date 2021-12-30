@@ -1,0 +1,29 @@
+{
+  "name": "lab3-nipunaprs",
+  "version": "1.0.0",
+  "description": "React and Express",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaimaaAliECE/lab3-nipunaprs.git"
+  },
+  "author": "Nipuna Peiris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaimaaAliECE/lab3-nipunaprs/issues"
+  },
+  "homepage": "https://github.com/ShaimaaAliECE/lab3-nipunaprs#readme",
+  "dependencies": {
+    "concurrently": "^6.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
